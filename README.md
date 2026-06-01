@@ -3,18 +3,19 @@ E-commerce sales analysis using Microsoft Excel with interactive dashboard .
 ##project overview 
 This project analyzes e_commerce sales data using Microsoft Excel and an inteactive dashboard.
 
-##Tools used
+## Tools used
 - Microsoft Excel
 - pivot tables
 - pivot charts
 - slicers
 - data cleaning
 
-  ##Dashboard
+  ## Dashboard
   The dashboard provides interactive visualizations for business decision-making.
 
-  ##Author
+  ## Author
   Ritu kumari
 
-
+## Dashboard screenshot 
+![Dashboard] (dashboard.png)
   
